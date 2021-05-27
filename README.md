@@ -1,5 +1,4 @@
 # hello-world
-learning to create new repository
 HI Everyone
 
 How are you guys doing today. I am doing good. trying to learn more about github hence here I have created a new repository for myself. Thankyou.
